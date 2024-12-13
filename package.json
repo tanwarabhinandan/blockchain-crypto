@@ -1,0 +1,11 @@
+{
+  "name": "blockchain-crypto",
+  "version": "1.0.0",
+  "description": "Basic Blockchain Application, showing cryptography and Hashing using SHA-256 algo.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhinandan",
+  "license": "ISC"
+}
